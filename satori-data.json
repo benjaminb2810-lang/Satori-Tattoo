@@ -1,0 +1,92 @@
+{
+  "business": {
+    "name": "Satori Tattoo",
+    "tagline": "Loveland's #1 Walk-In Tattoo & Piercing Studio",
+    "description": "Award-winning tattoo & piercing studio in downtown Loveland, CO. Over 100 years of combined experience, 14 artists, all styles. Walk-ins always welcome — or book a consultation. Open daily 12–8 (Fri & Sat until 10).",
+    "founded": "2018",
+    "founderStory": "Chris has been tattooing for 25 years. He moved to Colorado in 2018 and opened a shop on 4th Street within months. His wife Kim joined him, and they expanded to a larger location just across the street. Satori Tattoo has been a cornerstone of downtown Loveland for over 6 years.",
+    "phone": "(970) 278-5880",
+    "email": "Satoritattoo@yahoo.com",
+    "address": "116 E 4th St, Loveland, CO 80537",
+    "website": "https://satoritattoos.com",
+    "hours": {
+      "monday": "12:00 PM – 8:00 PM",
+      "tuesday": "12:00 PM – 8:00 PM",
+      "wednesday": "12:00 PM – 8:00 PM",
+      "thursday": "12:00 PM – 8:00 PM",
+      "friday": "12:00 PM – 10:00 PM",
+      "saturday": "12:00 PM – 10:00 PM",
+      "sunday": "12:00 PM – 8:00 PM"
+    },
+    "priceRange": "$$",
+    "amenities": ["Walk-ins Welcome", "Wheelchair Accessible", "Free Wi-Fi", "Bike Parking", "On-site Services"],
+    "artists": [
+      { "name": "Chris", "specialty": "Walk-In Wizard", "instagram": "chummel_tattoos", "facebook": "chrishummel75" },
+      { "name": "Kim", "specialty": "Fine Line & Stippling", "instagram": "khummel_tattoos", "facebook": "kim.devries" },
+      { "name": "Adam", "specialty": "Stylized Traditional", "instagram": "afuquatattoo", "facebook": "adam.fuqua.98" },
+      { "name": "Geno", "specialty": "Funky Illustrative Traditional", "instagram": "geno_ray", "facebook": "geno.ray.959764" },
+      { "name": "George", "specialty": "American Traditional — Bold to the Bone", "instagram": "mok_3000", "facebook": "" },
+      { "name": "Marcus", "specialty": "Photo Realism & Grey Anime", "instagram": "greyskulk", "facebook": "marcus.rose.980516" },
+      { "name": "Megan", "specialty": "Neo Trad, Japanese Inspired, Illustrative", "instagram": "", "facebook": "" },
+      { "name": "Nick", "specialty": "Bold & Bright", "instagram": "wolfantlers", "facebook": "" },
+      { "name": "Oopa", "specialty": "Illustrative, Black & Grey Realism", "instagram": "oopatattoo", "facebook": "" },
+      { "name": "Karissa", "specialty": "Head Piercer", "instagram": "karissa.piercings", "facebook": "karissa.pavia" },
+      { "name": "Veronica", "specialty": "Tattoo Apprentice", "instagram": "vzak.13", "facebook": "" },
+      { "name": "Keith", "specialty": "Tattoo Apprentice", "instagram": "deadliftcreation", "facebook": "keithen.mclean" },
+      { "name": "Kyra", "specialty": "Piercer", "instagram": "piercings.by.kyra", "facebook": "kyra.williams.5011" }
+    ],
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/SatoriTattooLoveland/",
+      "instagram": "https://www.instagram.com/satoritattooco/",
+      "tiktok": "https://www.tiktok.com/@satoritattooco"
+    },
+    "reviews": [
+      {
+        "author": "BestProsInTown",
+        "text": "Satori Tattoo is a professional establishment with a team that impresses with their efficiency and friendliness. The artists are skilled and meticulous. They are patient, careful, and make the experience as enjoyable as possible. A 10/10 experience.",
+        "rating": 5
+      },
+      {
+        "author": "Yahoo Local",
+        "text": "Satori is just an incredible studio all around. The whole team is welcoming, professional, and genuinely passionate about what they do. You feel it the second you walk in — it's clean, calm, and amazing.",
+        "rating": 5
+      },
+      {
+        "author": "Yahoo Local",
+        "text": "Phenomenal shop. Great owner and crew. Awesome place to spend some time and get inked. I now wait until I visit Colorado for any new work.",
+        "rating": 5
+      },
+      {
+        "author": "Nextdoor",
+        "text": "Check out Satori Tattoo on 4th St. All the artists are amazing.",
+        "rating": 5
+      }
+    ],
+    "stats": {
+      "facebookLikes": "17,926+",
+      "facebookReviews": "249",
+      "instagramFollowers": "10K+",
+      "recommendRate": "98%",
+      "combinedExperience": "100+ years",
+      "artistCount": "14"
+    },
+    "faq": [
+      {
+        "q": "How much will my tattoo cost?",
+        "a": "The cost depends on size, design complexity, and time. We offer Basic, Premium, and Exclusive packages. During your consultation, we'll give you an estimate based on your design."
+      },
+      {
+        "q": "How long will my tattoo take?",
+        "a": "Smaller tattoos may take 1–2 hours, while larger pieces can take several hours or multiple sessions. We'll discuss the expected time frame during your consultation."
+      },
+      {
+        "q": "Do you accept walk-ins?",
+        "a": "Walk-ins are ALWAYS welcome!"
+      },
+      {
+        "q": "Do you offer aftercare instructions?",
+        "a": "Absolutely! After your session, we walk you through proper aftercare including cleaning, sun protection, and moisturizing."
+      }
+    ]
+  }
+}
